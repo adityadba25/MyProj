@@ -1,0 +1,6 @@
+We are in the devops session. Lets build a pipeline.
+
+
+March 19 2022.
+
+
